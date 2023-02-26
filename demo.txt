@@ -3,3 +3,16 @@ This is the first class
 Second commit
 third commit
 fourth commit
+commit made in branch
+<<<<<<< HEAD
+one more commit on branch
+<<<<<<< HEAD
+=======
+commit on lav1
+<<<<<<< Updated upstream
+
+>>>>>>> lav
+=======
+adding someting for git stash
+hello world
+>>>>>>> Stashed changes

@@ -1,0 +1,3 @@
+This is my git log file for all the data.
+*.log
+!ReadMe.log
